@@ -1,38 +1,28 @@
-.App {
-  text-align: center;
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap");
+.App{
+  background-image: url("https://wallpaperaccess.com/full/1745055.jpg");
+  background-color: darkslateblue;
+  width: 50%;
+  padding: 60px 20px;
+  border-radius: 5px;
+ 
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1{
+  font-family: 'Orbitron', sans-serif;
+  color: #fdcd06;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+button{
+  font-family: 'orbitron', sans-serif;
+  background-color: white;
+  opacity: .9;
+  color: #fdcd06;
+  width: 100px;
+  height: 50px;
+  border-color: #fdcd06;
+  border-radius:  10px;
+  margin: 20px;
+  position: relative;
+  left: 15%;
 }

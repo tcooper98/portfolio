@@ -1,3 +1,5 @@
+Description This is a buzzfeed style quiz that will ask you a series of questions to determine what star trek character you are.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
