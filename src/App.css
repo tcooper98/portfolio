@@ -13,6 +13,13 @@ h1{
   color: #fdcd06;
 }
 
+h2{
+  font-family: 'Orbitron', sans-serif;
+  color: white;
+  size: 20px;
+  position: relative;
+}
+
 button{
   font-family: 'orbitron', sans-serif;
   background-color: white;
@@ -23,6 +30,5 @@ button{
   border-color: #fdcd06;
   border-radius:  10px;
   margin: 20px;
-  position: relative;
-  left: 15%;
+  position:relative;
 }

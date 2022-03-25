@@ -6,15 +6,15 @@ const QuizBank = [
       answers: [
         {
           answer: "Red",
-              resultID: 0,
+              answerValue: 0,
         },
         {
           answer: "Blue",
-              resultID: 1,
+              answerValue: 1,
         },
         {
           answer: "Yellow",
-              resultID: 2,
+              answerValue: 2,
         },
       ],
     },
@@ -23,15 +23,15 @@ const QuizBank = [
       answers: [
         {
           answer: "Transporter Room",
-              resultID: 0,
+              answerValue: 0,
         },
         {
           answer: "Medical Bay",
-              resultID: 1,
+              answerValue: 1,
         },
         {
           answer: "The Bridge",
-              resultID: 2,
+              answerValue: 2,
         },
       ],
     },
@@ -40,15 +40,15 @@ const QuizBank = [
       answers: [
         {
           answer: "Remus",
-              resultID: 0,
+              answerValue: 0,
         },
         {
           answer: "Vulcan",
-              resultID: 1,
+              answerValue: 1,
         },
         {
           answer: "Earth",
-              resultID: 2,
+              answerValue: 2,
         },
       ],
     },
@@ -57,15 +57,15 @@ const QuizBank = [
       answers: [
         {
           answer: "Gorn",
-              resultID: 0,
+              answerValue: 0,
         },
         {
           answer: "Vulcan",
-              resultID: 1,
+              answerValue: 1,
         },
         {
           answer: "Romulan",
-              resultID: 2,
+              answerValue: 2,
         },
       ],
     },
